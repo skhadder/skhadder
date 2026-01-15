@@ -6,13 +6,17 @@ I care about writing maintainable code, understanding systems deeply, and contin
 🛠️ Technical Skills
 
 Languages
+
 Java · JavaScript · TypeScript · C · SQL
 
 Frameworks & Libraries
+
 React · Next.js · Node.js · FastAPI · Tailwind CSS
 
 Databases
+
 MySQL · MongoDB
 
 Tools & Platforms
+
 Git · GitHub · Firebase · VS Code · IntelliJ IDEA · Eclipse · Vercel
